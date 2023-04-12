@@ -2,8 +2,6 @@
 """
 Created on Sat May  8 19:24:19 2021
 
-@author: Weichao Lin
-"""
 
 
 import numpy as np
